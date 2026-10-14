@@ -34,3 +34,8 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
+
+# Entrega universitaria y capturas locales
+entrega.txt
+screenshots/
+
